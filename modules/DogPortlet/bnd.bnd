@@ -1,0 +1,5 @@
+Bundle-Name: DogPortlet
+Bundle-SymbolicName: pl.dogportlet
+Bundle-Version: 1.0.0
+Export-Package: pl.dogportlet.constants
+metatype: *

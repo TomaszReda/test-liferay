@@ -1,0 +1,5 @@
+Bundle-Name: Config
+Bundle-SymbolicName: com.liferay.docs.exampleconfig.portlet
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.docs.exampleconfig.portlet.constants
+metatype: *
